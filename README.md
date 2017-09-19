@@ -1,3 +1,2 @@
-# Claude Chang Portfolio
-# using AWS and ReactJS
+# Claude Chang Portfolio using AWS and ReactJS
 serverless
