@@ -6,8 +6,8 @@ phases:
           - echo Nothing to do yet
 artifacts:
     files:
-        -index.html
-        -favicon.ico
-        -Resume_Claude_Chang_2017.pdf
-        -styles/main.css
-        -images/*
+        - index.html
+        - favicon.ico
+        - Resume_Claude_Chang_2017.pdf
+        - styles/main.css
+        - images/*
